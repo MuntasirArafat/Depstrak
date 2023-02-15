@@ -1,0 +1,29 @@
+{
+  "name": "depstrak",
+  "version": "1.6.0",
+  "description": "Bootstarp lite version mod for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuntasirArafat/Depstrak.git"
+  },
+  "author": "MuntasirArafat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuntasirArafat/Depstrak/issues"
+  },
+
+  "keywords": [
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "homepage": "https://github.com/MuntasirArafat/Depstrak#readme"
+}
